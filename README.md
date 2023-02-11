@@ -2,7 +2,7 @@
 
 ### This repo will be containing all the projects developed, resources utilized while learning the ReactNative
 
-# ----------------------------------------------------------------------------
+## ----------------------------------------------------------------------------
 
 ## Resources
 
