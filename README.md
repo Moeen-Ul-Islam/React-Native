@@ -10,11 +10,11 @@
 
 [Setting up environment & first project](https://moeen.hashnode.dev/your-first-reactnative-app-windows)
 
-[reactnative-folder-structure-explained-101](https://moeen.hashnode.dev/reactnative-folder-structure-explained-101)
+[reactnative folder structure explained-101](https://moeen.hashnode.dev/reactnative-folder-structure-explained-101)
 
-[introduction-to-react-native-components](https://moeen.hashnode.dev/introduction-to-react-native-components)
+[Introduction to react-native components](https://moeen.hashnode.dev/introduction-to-react-native-components)
 
-[styling-components-with-stylesheet-react-native](https://moeen.hashnode.dev/styling-components-with-stylesheet-react-native)
+[styling components with stylesheet react-native](https://moeen.hashnode.dev/styling-components-with-stylesheet-react-native)
 
 [Structure your app for better performance, readability and scalability](https://moeen.hashnode.dev/mastering-the-art-of-react-native-app-structure)
 
