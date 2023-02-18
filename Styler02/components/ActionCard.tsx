@@ -15,7 +15,7 @@ export default function ActionCard() {
   return (
     <View>
       <Text style={styles.headText}>BlogCard</Text>
-      <View style={[styles.card]}>
+      <View style={[styles.card, styles.elevatedCard]}>
         <View style={styles.headingContainer}>
           <Text style={styles.headerText}>What's new in JS 21- ES12</Text>
         </View>
@@ -48,14 +48,53 @@ export default function ActionCard() {
 }
 
 const styles = StyleSheet.create({
-  headText: {},
-  card: {},
-  headingContainer: {},
-  headerText: {},
+  headText: {
+    fontSize: 24,
+    fontWeight: 'bold',
+    paddingHorizontal: 8,
+  },
+  card: {
+    width: 350,
+    height: 360,
+    borderRadius: 6,
+    marginVertical: 12,
+    marginHorizontal: 16,
+  },
+  elevatedCard: {
+    backgroundColor: 'grey',
+    elevation: 3,
+  },
+  headingContainer: {
+    height: 40,
+    flexDirection: 'row',
+    justifyContent: 'center',
+    alignItems: 'center'
+  },
+  headerText: {
+    color: '#000',
+    fontSize: 16,
+    fontWeight: '600',    
+  },
   cardImage: {
     height: 180,
   },
-  bodyContainer: {},
-  footerContainer: {},
-  socialLinks:{}
+  bodyContainer: {
+    padding: 10,
+  },
+  footerContainer: {
+    padding: 8,
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center'
+
+  },
+  socialLinks: {
+    fontSize: 16,
+    color: '#000000',
+    backgroundColor: '#FFF',
+    paddingHorizontal: 20,
+    paddingVertical: 6,
+    margin: 6,
+    borderRadius: 6
+  },
 });
