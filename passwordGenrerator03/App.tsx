@@ -16,24 +16,24 @@ function App() {
   // password: the variable that stores the actual value
   // setPassword: function that updates the value of the 'passWord'
   const [password, setPassword] = useState('');
-  const [isPasswordGenerated, setIsPasswordGenerated] = useState(false)
-  const [lowerCase, setLowerCase] = useState(true)
-  const [upperrCase, setupperrCase] = useState(false)
-  const [numbers, useNumbers] = useState(false)
-  const [symbols, useSymbols] = useState(false)
+  const [isPasswordGenerated, setIsPasswordGenerated] = useState(false);
+  const [lowerCase, setLowerCase] = useState(true);
+  const [upperrCase, setupperrCase] = useState(false);
+  const [numbers, useNumbers] = useState(false);
+  const [symbols, useSymbols] = useState(false);
 
-  const generatePasswordString = (passwordLength: number) =>{
+  const generatePasswordString = (passwordLength: number) => {
     // magic will happend here
-  }
+  };
 
-  const createPasword = (characters: string, passwordLength:number) => {
-    // 
-  }
+  const createPasword = (characters: string, passwordLength: number) => {
+    //
+  };
 
   const resetPasswordState = () => {
-    // 
-  }
-  
+    //
+  };
+
   return (
     <View>
       <Text>password generator</Text>
