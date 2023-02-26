@@ -20,6 +20,8 @@
 
 [Beginner Friendly Comprehensive guide to learn Flex Box](https://moeen.hashnode.dev/flex-your-layouts-a-comprehensive-guide-to-flexbox-in-react-native-with-code-snippets)
 
+[Yup: The Ultimate Validation Solution for JavaScript Developers)](https://moeen.hashnode.dev/yup-the-ultimate-validation-solution-for-javascript-developers)
+
 ## YOUTUBE
 
 [Hitesh Choudhary(Free Youtube Series)](https://youtube.com/playlist?list=PLRAV69dS1uWSjBBJ-egNNOd4mdblt1P4c)
